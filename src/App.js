@@ -1,3 +1,4 @@
+// src/App.js
 import React from 'react';
 import Header from './components/Header';
 import Home from './components/Home';
@@ -10,10 +11,12 @@ import Skills from './components/Skills';
 import Blog from './components/Blog';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import ThemeToggle from './components/ThemeToggle';
 
 function App() {
   return (
     <div className="App">
+      <ThemeToggle />
       <Header />
       <Home />
       <About />

@@ -1,5 +1,6 @@
 // src/components/Contact.js
 import React from 'react';
+import GoogleButton from './GoogleButton';
 
 function Contact() {
   return (
@@ -15,6 +16,7 @@ function Contact() {
         <li>X (Twitter): <a href="#">twitter.com/lakshya-tyagi</a></li>
         <li>Daily Dev: <a href="#">daily.dev/lakshya-tyagi</a></li>
       </ul>
+      <GoogleButton />
       <form>
         <input type="text" placeholder="Your Name" required />
         <input type="email" placeholder="Your Email" required />
