@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lakshya-tyagi-portfolio/static/css/main.bae02ecf.css",
-    "main.js": "/lakshya-tyagi-portfolio/static/js/main.f43d3514.js",
+    "main.css": "/lakshya-tyagi-portfolio/static/css/main.b24c4a0d.css",
+    "main.js": "/lakshya-tyagi-portfolio/static/js/main.5ea34eba.js",
     "index.html": "/lakshya-tyagi-portfolio/index.html",
-    "main.bae02ecf.css.map": "/lakshya-tyagi-portfolio/static/css/main.bae02ecf.css.map",
-    "main.f43d3514.js.map": "/lakshya-tyagi-portfolio/static/js/main.f43d3514.js.map"
+    "main.b24c4a0d.css.map": "/lakshya-tyagi-portfolio/static/css/main.b24c4a0d.css.map",
+    "main.5ea34eba.js.map": "/lakshya-tyagi-portfolio/static/js/main.5ea34eba.js.map"
   },
   "entrypoints": [
-    "static/css/main.bae02ecf.css",
-    "static/js/main.f43d3514.js"
+    "static/css/main.b24c4a0d.css",
+    "static/js/main.5ea34eba.js"
   ]
 }
